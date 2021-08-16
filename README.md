@@ -47,6 +47,7 @@
   2.6.2 GTA-Driving ( Roekeloos, stunt jumpt etc. ) is niet toegestaan en zorgt voor een ban van onbepaalde of bepaalde tijd.
   2.6.3 Vliegen is mogelijk in de stad, echter moet je je wel houden aan de normale vlieghoogte en heb respect voor de medespelers die zich ook in de lucht begeven.
   2.6.4 Expres tegen andere aanrijden, beuken of rammen valt onder category 2.2.
+  2.6.5 Het plaatsen van een voertuig in de garage is verboden tijdens een scenario.
 
 2.7 Character
   2.7.1 In de stad speel je als de personage die je hebt aangemaakt. Dit houd in dat je alles doet en zegt in de naam van die persoon. In de stad moet je dan ook zelf de contacten leggen met de andere bewoners.
