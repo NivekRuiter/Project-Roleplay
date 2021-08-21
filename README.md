@@ -58,3 +58,15 @@
   2.7 Voicechat kan je gebruiken via de N spier
    2.7.2.1 Indien je buiten je character moet spreken doe je dit altijd via /OOC in de chat ( Out Of Character ) en niet via de voicechat. 
    2.7.2.2 De voicechat is uitsluitend bedoeld om te spreken vanuit je character. Tenzij een stafflid bij je is bij een issue.
+
+# 3.0 Privacy
+  3.1.1 In BrusselRP zijn persoonsgegeven opgeslagen in de loggin van de FiveM Server.
+  3.1.1.1 Je IP adres van het netwerk die je gebruikt om in te loggen in de FiveM server
+  3.1.1.2 De naam en license keys van Discord, FiveM en Steam. Deze worden puur gebruikt ter verificatie.
+  3.1.1.3 De naam van je personage.
+
+  3.2 Persoonsgegevens
+  3.2.1 U heeft altijd het recht om na te vragen welke gegevens zijn opgeslagen en wat deze gegevens zijn. Volgends de Mederlandse privacywet ( GDPR).
+  3.2.2 Indien u de gegevens wilt inzien kunt u dit aanvragen via een ticket.
+  3.2.3 Indien u van plan bent om de server te verlaten, kunt u een aanvraag indienen via een ticket om uw gegevens te laten verwijderen. Dit kan ca 7 werkdagen duren, conform van het recht van vergeterheid.
+  3.2.4 Het doorsturen van uw gegevens naar externe partijen word niet door ons uitgevoerd.
