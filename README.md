@@ -60,7 +60,7 @@
 
 # 3.0 Privacy
 - 3.1 Opslag
-  - 3.1.1 In BrusselRP zijn persoonsgegeven opgeslagen in de loggin van de FiveM Server.
+  - 3.1.1 In PRP zijn persoonsgegeven opgeslagen in de loggin van de FiveM Server.
   - 3.1.1.1 Je IP adres van het netwerk die je gebruikt om in te loggen in de FiveM server
   - 3.1.1.2 De naam en license keys van Discord, FiveM en Steam. Deze worden puur gebruikt ter verificatie.
   - 3.1.1.3 De naam van je personage.
