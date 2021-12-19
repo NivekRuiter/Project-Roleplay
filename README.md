@@ -2,7 +2,7 @@
 
 # 1.0 Landverdeling
 
-1.1 Het eiland genaamd Isola Della Morte gevestigd Zuid-Oost op de landkaart ( hierna te noemen het eiland) is in handen van de familie Tagliano. 
+1.1 Het eiland genaamd Isola Della Morte gevestigd Zuid-Oost op de landkaart ( hierna te noemen het eiland) is in handen van het cartel. 
 1.1.1 Dit houdt in dat de vaste hulpdiensten ( politie, brandweer, ambulance en het leger ) hier niet veilig zijn en hier geen enkele jurisdictie hebben. Ze mogen hier ook niet komen zonder meldingen van bijzondere aard. 
 
 1.2 De wateren tussen het eiland en het vasteland valt wel onder hun jurisdictie. 
